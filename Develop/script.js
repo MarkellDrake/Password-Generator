@@ -32,7 +32,7 @@ var fourthPrompt = prompt("special Characters?");
    passwordText = document.querySelector("#password");
 
  
-//this displays what will show in the final 
+//this displays what will show in the final area 
   passwordText.value = password;
 
 };
